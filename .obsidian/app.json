@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "root",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true
+}
