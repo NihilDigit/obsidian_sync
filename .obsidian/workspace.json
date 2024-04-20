@@ -11,8 +11,12 @@
             "id": "cfb69fa7295a749f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DDCA ETHz/Introduction & Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a174d6a0f033300",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DDCA ETHz/Introduction & Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DDCA ETHz/Introduction & Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DDCA ETHz/Introduction & Basics.md"
+              }
             }
           }
         ]
@@ -135,11 +144,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "f5c0f738fd8182a3",
+  "active": "cfb69fa7295a749f",
   "lastOpenFiles": [
+    "草稿/《人工智能数学实践》课程报告.md",
+    "DDCA ETHz/Introduction & Basics.md",
+    "DDCA ETHz",
+    "草稿/attachments/人工智能数学基础.png",
+    "草稿/attachments",
+    "ESP32-MicroPython/未命名.md",
     "obsidian-vault",
     "ESP32-MicroPython",
     "Nand to Tetris/Part I Hardware Platform/未命名.md",
@@ -164,11 +180,8 @@
     "简明微积分/attachments/Pasted image 20240404190352.png",
     "未命名.canvas",
     "简明微积分/attachments/Pasted image 20240404162519.png",
-    "简明微积分/attachments/Pasted image 20240404160329.png",
     "简明微积分/attachments",
     "SICP JS/Contents/第一章/1.1.6 条件表达式与谓词.md",
-    "简明微积分",
-    "The Rust Programming Language",
     "SICP JS/Contents/第一章/1.1.5 函数应用的替换模型.md",
     "SICP JS/Contents/第一章/1.1.4 复合函数.md",
     "SICP JS/Contents/第一章/1.1.3 操作符组合的求值.md",
@@ -176,7 +189,6 @@
     "SICP JS/Contents/第一章/1.1.1 表达式.md",
     "SICP JS/Contents/第一章/1.1 编程要素.md",
     "SICP JS/Contents/第一章/1 从函数构建抽象.md",
-    "SICP JS/Contents/第一章",
     "SICP JS/Contents/序言/4 致谢.md",
     "SICP JS/Contents/序言/3 1996&1984版前言.md",
     "SICP JS/Contents/序言/0 序言.md",
@@ -184,8 +196,6 @@
     "SICP JS/Contents/序言/2 前言.md",
     "SICP JS/Contents/序.md",
     "草稿/PyAI Lec 3-4.md",
-    "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
-    "数据结构（C++语言描述）/顺序表的应用.md",
-    "数据结构（C++语言描述）/双链表.md"
+    "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md"
   ]
 }
