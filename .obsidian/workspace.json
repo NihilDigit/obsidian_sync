@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDCA ETHz/Introduction & Basics.md",
+                "file": "DDCA Spring 2023/Introduction and Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a174d6a0f033300",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDCA ETHz/Introduction & Basics.md",
+                "file": "DDCA Spring 2023/Introduction and Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDCA ETHz/Introduction & Basics.md",
+                "file": "DDCA Spring 2023/Introduction and Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDCA ETHz/Introduction & Basics.md"
+                "file": "DDCA Spring 2023/Introduction and Basics.md"
               }
             }
           }
@@ -148,10 +147,20 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "cfb69fa7295a749f",
+  "active": "f5c0f738fd8182a3",
   "lastOpenFiles": [
+    "DDCA Spring 2023/attachments/Pasted image 20240423215648.png",
+    "DDCA Spring 2023/attachments/Pasted image 20240423215534.png",
+    "DDCA Spring 2023/attachments/Pasted image 20240423215531.png",
+    "DDCA Spring 2023/attachments/Pasted image 20240423215528.png",
+    "DDCA Spring 2023/attachments/Pasted image 20240423215521.png",
+    "DDCA Spring 2023/attachments",
     "草稿/《人工智能数学实践》课程报告.md",
+    "DDCA Spring 2023/Introduction and Basics.md",
+    "DDCA Spring 2023",
     "DDCA ETHz/Introduction & Basics.md",
+    "DDCA ETHz/attachments/Pasted image 20240420173826.png",
+    "DDCA ETHz/attachments",
     "DDCA ETHz",
     "草稿/attachments/人工智能数学基础.png",
     "草稿/attachments",
@@ -165,22 +174,14 @@
     "Nand to Tetris/Part II Software Hierarchy",
     "Khan Academy Multivariable Calculus/Introduction to multivariable calculus.md",
     "Nand to Tetris/Part I Hardware Platform",
-    "Nand to Tetris",
     "简明微积分/5 矢量代数与空间解析几何.md",
-    "Khan Academy Multivariable Calculus",
     "简明微积分/attachments/Pasted image 20240410143128.png",
     "简明微积分/attachments/Pasted image 20240410133524.png",
     "简明微积分/attachments/Pasted image 20240410133019.png",
     "简明微积分/2 微积分的运算.md",
     "简明微积分/1 微积分的概念.md",
     "简明微积分/attachments/Pasted image 20240406184959.png",
-    "简明微积分/attachments/Pasted image 20240406090203.png",
-    "简明微积分/attachments/Pasted image 20240406090029.png",
-    "简明微积分/attachments/Pasted image 20240406085210.png",
-    "简明微积分/attachments/Pasted image 20240404190352.png",
     "未命名.canvas",
-    "简明微积分/attachments/Pasted image 20240404162519.png",
-    "简明微积分/attachments",
     "SICP JS/Contents/第一章/1.1.6 条件表达式与谓词.md",
     "SICP JS/Contents/第一章/1.1.5 函数应用的替换模型.md",
     "SICP JS/Contents/第一章/1.1.4 复合函数.md",
@@ -194,8 +195,6 @@
     "SICP JS/Contents/序言/0 序言.md",
     "SICP JS/Contents/序言/1 1984版序言.md",
     "SICP JS/Contents/序言/2 前言.md",
-    "SICP JS/Contents/序.md",
-    "草稿/PyAI Lec 3-4.md",
-    "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md"
+    "SICP JS/Contents/序.md"
   ]
 }
