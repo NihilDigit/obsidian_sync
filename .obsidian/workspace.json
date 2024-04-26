@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDCA Spring 2023/Introduction and Basics.md",
+                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DDCA Spring 2023/Introduction and Basics.md",
+                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DDCA Spring 2023/Introduction and Basics.md",
+                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DDCA Spring 2023/Introduction and Basics.md"
+                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md"
               }
             }
           }
@@ -147,16 +147,20 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "f5c0f738fd8182a3",
+  "active": "cfb69fa7295a749f",
   "lastOpenFiles": [
+    "计算机网络：自顶向下方法/应用层.md",
+    "计算机网络：自顶向下方法/计算机网络和因特网.md",
+    "草稿/M-P.md",
+    "草稿/PyAI Lec 3-4.md",
+    "草稿/《人工智能数学实践》课程报告.md",
+    "DDCA Spring 2023/Introduction and Basics.md",
     "DDCA Spring 2023/attachments/Pasted image 20240423215648.png",
     "DDCA Spring 2023/attachments/Pasted image 20240423215534.png",
     "DDCA Spring 2023/attachments/Pasted image 20240423215531.png",
     "DDCA Spring 2023/attachments/Pasted image 20240423215528.png",
     "DDCA Spring 2023/attachments/Pasted image 20240423215521.png",
     "DDCA Spring 2023/attachments",
-    "草稿/《人工智能数学实践》课程报告.md",
-    "DDCA Spring 2023/Introduction and Basics.md",
     "DDCA Spring 2023",
     "DDCA ETHz/Introduction & Basics.md",
     "DDCA ETHz/attachments/Pasted image 20240420173826.png",
@@ -180,7 +184,6 @@
     "简明微积分/attachments/Pasted image 20240410133019.png",
     "简明微积分/2 微积分的运算.md",
     "简明微积分/1 微积分的概念.md",
-    "简明微积分/attachments/Pasted image 20240406184959.png",
     "未命名.canvas",
     "SICP JS/Contents/第一章/1.1.6 条件表达式与谓词.md",
     "SICP JS/Contents/第一章/1.1.5 函数应用的替换模型.md",
@@ -192,9 +195,6 @@
     "SICP JS/Contents/第一章/1 从函数构建抽象.md",
     "SICP JS/Contents/序言/4 致谢.md",
     "SICP JS/Contents/序言/3 1996&1984版前言.md",
-    "SICP JS/Contents/序言/0 序言.md",
-    "SICP JS/Contents/序言/1 1984版序言.md",
-    "SICP JS/Contents/序言/2 前言.md",
-    "SICP JS/Contents/序.md"
+    "SICP JS/Contents/序言/0 序言.md"
   ]
 }
