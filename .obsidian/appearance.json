@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "theme": "obsidian"
 }

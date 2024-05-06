@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
+                "file": "Mathematics/小菲砖/1.2 实数的四则运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
+                "file": "Mathematics/小菲砖/1.2 实数的四则运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md",
+                "file": "Mathematics/小菲砖/1.2 实数的四则运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络：自顶向下方法/EXTRA 用Python进行Socket编程.md"
+                "file": "Mathematics/小菲砖/1.2 实数的四则运算.md"
               }
             }
           }
@@ -149,52 +149,52 @@
   },
   "active": "cfb69fa7295a749f",
   "lastOpenFiles": [
+    "Mathematics/小菲砖/1.1 实数集合及其有序化.md",
+    "Mathematics/小菲砖/1.3 实数的其他性质及其应用.md",
+    "Mathematics/小菲砖/1.2 实数的四则运算.md",
+    "Mathematics/小菲砖",
+    "Mathematics",
+    "Architecture/COD MIPS 第六版/计算机抽象及相关技术.md",
+    "Architecture/COD MIPS 第六版/attachments/Pasted image 20240503150637.png",
+    "Architecture/COD MIPS 第六版/attachments",
+    "DDCA Spring 2023/Lec 2a Tradeoffs, Metrics, Mindset.md",
+    "Architecture/COD MIPS 第六版",
+    "Architecture",
+    "新建文件夹",
+    "归档/体系结构",
+    "归档/数据结构（C++语言描述）/双链表.md",
+    "归档/数据结构（C++语言描述）/单链表.md",
+    "归档/数据结构（C++语言描述）/C++中的类——实现复数运算.md",
+    "归档/数据结构（C++语言描述）/顺序表的应用.md",
+    "归档/数据结构（C++语言描述）",
+    "归档/简明微积分/attachments/Pasted image 20240410143128.png",
+    "归档/简明微积分/attachments/Pasted image 20240410133524.png",
+    "归档/简明微积分/attachments/Pasted image 20240410133019.png",
+    "归档/简明微积分/attachments/Pasted image 20240406184959.png",
+    "归档/简明微积分/attachments/Pasted image 20240406090203.png",
+    "归档/简明微积分/attachments/Pasted image 20240406090029.png",
+    "归档/简明微积分/attachments/Pasted image 20240406085210.png",
+    "归档/简明微积分/attachments/Pasted image 20240404190352.png",
+    "归档/简明微积分/attachments/Pasted image 20240404162519.png",
+    "归档/简明微积分/attachments",
+    "归档/简明微积分/5 矢量代数与空间解析几何.md",
+    "归档/简明微积分/2 微积分的运算.md",
+    "归档/简明微积分/1 微积分的概念.md",
+    "归档/简明微积分",
+    "归档/计算机网络：自顶向下方法/计算机网络和因特网.md",
+    "归档/计算机网络：自顶向下方法/应用层.md",
+    "归档/草稿/读后感.md",
+    "归档/草稿/《人工智能数学实践》课程报告.md",
+    "归档/草稿/PyAI Lec 3-4.md",
+    "归档/草稿/M-P.md",
+    "归档/ESP32-MicroPython/未命名.md",
+    "归档/DDCA Spring 2023/Lec 2a Tradeoffs, Metrics, Mindset.md",
+    "DDCA Spring 2023/Introduction and Basics.md",
     "计算机网络：自顶向下方法/应用层.md",
     "计算机网络：自顶向下方法/计算机网络和因特网.md",
     "草稿/M-P.md",
     "草稿/PyAI Lec 3-4.md",
     "草稿/《人工智能数学实践》课程报告.md",
-    "DDCA Spring 2023/Introduction and Basics.md",
-    "DDCA Spring 2023/attachments/Pasted image 20240423215648.png",
-    "DDCA Spring 2023/attachments/Pasted image 20240423215534.png",
-    "DDCA Spring 2023/attachments/Pasted image 20240423215531.png",
-    "DDCA Spring 2023/attachments/Pasted image 20240423215528.png",
-    "DDCA Spring 2023/attachments/Pasted image 20240423215521.png",
-    "DDCA Spring 2023/attachments",
-    "DDCA Spring 2023",
-    "DDCA ETHz/Introduction & Basics.md",
-    "DDCA ETHz/attachments/Pasted image 20240420173826.png",
-    "DDCA ETHz/attachments",
-    "DDCA ETHz",
-    "草稿/attachments/人工智能数学基础.png",
-    "草稿/attachments",
-    "ESP32-MicroPython/未命名.md",
-    "obsidian-vault",
-    "ESP32-MicroPython",
-    "Nand to Tetris/Part I Hardware Platform/未命名.md",
-    "NJU CPL/0 intro.md",
-    "NJU CPL",
-    "Nand 2 Tetris/未命名.md",
-    "Nand to Tetris/Part II Software Hierarchy",
-    "Khan Academy Multivariable Calculus/Introduction to multivariable calculus.md",
-    "Nand to Tetris/Part I Hardware Platform",
-    "简明微积分/5 矢量代数与空间解析几何.md",
-    "简明微积分/attachments/Pasted image 20240410143128.png",
-    "简明微积分/attachments/Pasted image 20240410133524.png",
-    "简明微积分/attachments/Pasted image 20240410133019.png",
-    "简明微积分/2 微积分的运算.md",
-    "简明微积分/1 微积分的概念.md",
-    "未命名.canvas",
-    "SICP JS/Contents/第一章/1.1.6 条件表达式与谓词.md",
-    "SICP JS/Contents/第一章/1.1.5 函数应用的替换模型.md",
-    "SICP JS/Contents/第一章/1.1.4 复合函数.md",
-    "SICP JS/Contents/第一章/1.1.3 操作符组合的求值.md",
-    "SICP JS/Contents/第一章/1.1.2 命名与环境.md",
-    "SICP JS/Contents/第一章/1.1.1 表达式.md",
-    "SICP JS/Contents/第一章/1.1 编程要素.md",
-    "SICP JS/Contents/第一章/1 从函数构建抽象.md",
-    "SICP JS/Contents/序言/4 致谢.md",
-    "SICP JS/Contents/序言/3 1996&1984版前言.md",
-    "SICP JS/Contents/序言/0 序言.md"
+    "未命名.canvas"
   ]
 }
